@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(238, 175, 185);
+    width: 80%;
+    margin: 30px auto;
+}
+#educ {
+    text-align: center;
+    color: white;
+    font-size: 2.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    width: 80%
+}
+#educ1 {
+    text-align: center;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px auto;
+    font-size: 0.8em;
+}
+#educ2 {
+    text-align: center;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 15px auto;
+    font-size: 0.8em;
+    font-weight: bold;
+}
+li {
+    margin: 10px auto;
+}
+ol {
+    margin: 20px auto;
+    width: 40%;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: medium;
+    text-align: left;
+
+}
+#quote {
+    color: white;
+    width: 25%;
+    text-align: center;
+    font-size: 1.8em;
+    margin: 30px auto;
+
+}
+img {
+    display: block;
+    width: 15%;
+    margin: 0 auto;
+    text-align: center;
+}
+footer {
+    color: black;
+    text-align: center;
+    font-size: 0.7em;
+    font-family: verdana;
+    font-weight: bold;
+}
