@@ -133,6 +133,5 @@ footer h3 a:hover {
     text-decoration: underline;
 }
 .card-img {
-    border: 10px;
-    border-color: black;
+    border: 10px solid #FED99B;
 }
