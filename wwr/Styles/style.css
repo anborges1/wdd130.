@@ -11,16 +11,15 @@ header {
 nav {
     display: flex;
     justify-content: space-around;
-    order: 4;
     list-style: none;
     text-decoration: none;
     align-items: center;
 }
 nav a {
-    text-align: center;
     justify-content: center;
     align-items: center;
-    color: #5091C7;
+    list-style: none;
+    color: lightgray;
     text-decoration: none;
     padding: 10px;
 }
@@ -123,14 +122,14 @@ p {
     background-color: rgb(255, 255, 255);
     color: black;
     text-decoration: none;
-    padding: 15px 30px;
-    margin-top: 50px;
+    padding: 15px 15px;
+    margin-top: 30px;
     font-size: 18px;
     border-radius: 5px;
 
 }
 .book:hover, .join:hover {
-    background-color: #5d5e5f;
+    background-color: #5091C7;
     color:rgb(255, 255, 255);
 }
 .msg {
